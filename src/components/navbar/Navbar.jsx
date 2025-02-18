@@ -10,7 +10,7 @@ const Navbar = () => {
   const [open, setOpen] = useState(false);
 
   return (
-    <div className="md:px-4 sm:py-5 flex w-full sm:w-[95%] md:h-[100px] items-center justify-between mx-auto">
+    <div className="md:pr-4 sm:py-5 flex border w-full sm:w-[100%] md:h-[100px] items-center justify-between mx-auto">
       <div className="md:flex-1 flex py-3 sm:py-0 w-full sm:mr-8  justify-between z-50 items-center">
         <div className="md:bg-[#f2f3f6] sm:w-[80%] sm:py-8 items-center text-center">
           <h2 className="sm:text-3xl uppercase">Renover</h2>
