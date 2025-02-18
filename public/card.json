@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Quality Material",
+    "subtitle": "Durability",
+    "image": "https://i.ibb.co/Z6GsC4rf/1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Kitchen Remodel",
+    "subtitle": "Renovation",
+    "image": "https://i.ibb.co/cXggXbZx/2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Foundation Grading",
+    "subtitle": "Leveling",
+    "image": "https://i.ibb.co/gLQkJgT4/3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Roof Remodel",
+    "subtitle": "Repair",
+    "image": "https://i.ibb.co/7tn27Dqc/4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Highway Construction",
+    "subtitle": "Roadwork",
+    "image": "https://i.ibb.co/fPmq6Zw/5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Steel Framing",
+    "subtitle": "Structure",
+    "image": "https://i.ibb.co/fVDxS4Cr/6.jpg"
+  }
+]
