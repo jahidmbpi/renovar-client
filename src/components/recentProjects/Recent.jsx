@@ -17,7 +17,7 @@ const Recent = () => {
   return (
     <div className="bg-[#2a2f42]">
       <Header />
-      <div className="md:mx-[140px] mt-[50px]">
+      <div className="md:mx-[140px] mt-[50px] mb-[100px]">
         <div className="grid grid-cols-3 gap-5 items-center justify-center w-full ">
           {data?.map((cardItem) => (
             <Card key={cardItem.id} cardItem={cardItem} />
