@@ -1,6 +1,6 @@
 import banner from "../../../assets/home/recent-projects/1.jpg";
-import leftTestImg from "../../../assets/home/New folder/corner-left.png";
-import rightTextimg from "../../../assets/home/New folder/hero-corner.png";
+import leftTestImg from "../../../assets/home/Newfolder/corner-left.png";
+import rightTextimg from "../../../assets/home/Newfolder/hero-corner.png";
 import bannerLogo from "../../../assets/logo/favicon.png";
 import { motion } from "framer-motion";
 

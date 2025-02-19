@@ -1,4 +1,4 @@
-import imageborder from "../../assets/home/New folder/about.jpg";
+import imageborder from "../../assets/home/Newfolder/about.jpg";
 import homicon1 from "../../assets/icons/home-icon-1.jpg";
 import homeicon2 from "../../assets/icons/home-icon-2.jpg";
 const CommitedSection = () => {
