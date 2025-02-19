@@ -3,24 +3,24 @@ import { motion } from "framer-motion";
 
 const BestContraction = () => {
   return (
-    <div className="w-full m-auto flex relative justify-between">
+    <div className="w-full flex relative justify-between">
       <motion.div
-        initial={{ x: -800, opacity: 0 }}
-        whileInView={{ x: 0, opacity: 1 }}
-        transition={{ duration: 1, ease: "easeOut" }}
+        initial={{ y: 200, opacity: 0 }}
+        whileInView={{ y: 0, opacity: 1 }}
+        transition={{ duration: 1, delay: 0, ease: "easeOut" }}
         className="w-full"
       >
         <div
-          className="h-[600px] w-1/2 bg-no-repeat bg-cover bg-center"
+          className="h-[600px] w-1/2 bg-no-repeat bg-cover bg-center ml-32"
           style={{ backgroundImage: `url(${ac})` }}
         ></div>
       </motion.div>
 
       <motion.div
-        className="flex flex-col p-12 z-20 w-[60%] absolute text-black bg-[#ffffff] h-[500px] top-[100px] right-0 shadow-lg"
+        className="flex flex-col p-12 z-20 w-[60%] absolute text-black bg-[#ffffff] h-[500px] bottom-0 right-0 shadow-lg"
         initial={{ x: 800, opacity: 0 }}
         whileInView={{ x: 0, opacity: 1 }}
-        transition={{ duration: 1, ease: "easeOut" }}
+        transition={{ duration: 1, delay: 0, ease: "easeOut" }}
       >
         <div className="space-y-8">
           <h2 className="uppercase border-l-4 border-orange-600 pl-4">
